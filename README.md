@@ -1,7 +1,11 @@
-# 💫 About Me:
-   
+# 💫 Hi 👋, I'm Tushar Bharat
 
+Email Me 👉 ✉️ **tusharmax03@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
+- 🔭 **I’m currently working on:** Generative AI based Project
+- 🌱 **I’m currently learning:** Docker, Kubernetes, and setting up CI/CD pipelines with GitHub Actions.
+- 🤔 **I’m looking for help with:** Best practices for writing clean, maintainable code and preparing for technical interviews.
+- ⚡ **Fun fact:** My life is currently a while loop: **while (!mastered_concept) { keep_studying();}**
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tushar-bharat) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tusharmax03@gmail.com) 
 
