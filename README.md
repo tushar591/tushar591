@@ -19,4 +19,3 @@ Email Me 👉 ✉️ **tusharmax03@gmail.com** For Collaboration/Project or Anyt
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tushar591&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
